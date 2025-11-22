@@ -2,6 +2,10 @@
 
 A simple and user-friendly Expense Tracker built using React.js to help users track their daily income and expenses efficiently.
 
+🌐 Live Demo
+
+👉 Live App: https://expense-tracker-guddoo-kumar.vercel.app/
+
 🚀 Features
 
 Add new income and expense transactions
@@ -34,8 +38,7 @@ LocalStorage API
 
 📸 Screenshots
 
-(Add screenshots here if available)
-You can paste images or links to your project UI.
+(You can add screenshots of your app UI here)
 
 📦 Installation & Setup
 
@@ -54,7 +57,7 @@ npm install
 npm start
 
 
-Now open your browser and go to:
+Open in browser:
 👉 http://localhost:3000
 
 📂 Folder Structure
@@ -76,3 +79,33 @@ expense-tracker-react/
 │   └── index.css
 │
 └── package.json
+
+✨ How It Works
+
+Enter transaction title and amount
+
+Positive amount → Income
+
+Negative amount → Expense
+
+Balance updates automatically
+
+Data is stored using browser localStorage
+
+📌 Future Enhancements
+
+Authentication system
+
+Cloud storage (Firebase / MongoDB)
+
+Monthly charts & analytics
+
+Category filters
+
+Export to Excel / CSV
+
+🙋‍♂️ Developer
+
+Guddoo Kumar
+Frontend / Full Stack Developer
+🌐 Live App: https://expense-tracker-guddoo-kumar.vercel.app/
